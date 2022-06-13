@@ -1,0 +1,18 @@
+Iniciar proyecto transportessas
+
+Subir servidor xampp o wamp
+Iniciar servicio apache
+Copiar carpeta del proyecto en la ruta de xamp o wamp
+C:\xampp\htdocs
+C:\wamp\www
+
+Iniciar el proyecto laravel en el aplicativo visual code o el de su preferencia con la ayuda de la consola
+usar el comando
+php artisan serve
+
+
+Acceder al proyecto mediante navegador por la siguiente url (tener en cuenta si se utiliza un puerto diferente al 80)
+http://localhost/transportessas/
+
+Aquí tendrá acceso a los formularios de la aplicación
+
